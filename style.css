@@ -3,4 +3,5 @@
 /* the menu icons are black like the real site, not bootstrap link blue */
 a {
   color: black;
+  text-decoration: none;
 }
