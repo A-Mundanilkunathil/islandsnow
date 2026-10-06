@@ -1,0 +1,6 @@
+/* used AI to help build the page and check it against the example */
+
+/* the menu icons are black like the real site, not bootstrap link blue */
+a {
+  color: black;
+}
